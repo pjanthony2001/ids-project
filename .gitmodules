@@ -1,0 +1,6 @@
+[submodule "include/chess-library"]
+	path = include/chess-library
+	url = git@github.com:Disservin/chess-library.git
+[submodule "include/Stockfish"]
+	path = include/Stockfish
+	url = git@github.com:official-stockfish/Stockfish.git
